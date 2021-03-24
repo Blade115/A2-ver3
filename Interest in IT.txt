@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Blade's Website</title>
+
+<style>
+
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
+
+
+nav {
+  background-color: #ccc;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+article {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  font-size: 22px;
+
+}
+
+footer {
+  background-color: #666;
+  padding: 100px;
+  text-align: center;
+  color: white;
+}
+
+</style>
+
+</head>
+
+
+<body style="text-align:center;font-family:arial">
+
+<header><h1>blade's website</h1></header>
+
+
+<nav>
+<a href="index.html">Personal Information</a>
+<a href="Interest in IT.html"> Interest in IT</a>
+<a href="Ideal Job.html">Ideal Job</a> 
+<a href="Profile.html">Profile</a>
+<a href="Project Bake Bot.html">Project Bake Bot</a>
+</nav>
+
+<article>
+<h2>Interest in IT</h2>
+<p>I have always had a passive interest in IT from a young age, as I was surrounded by it for as <br>long as I can remember. My mother and father were very early adopters of computers <br>in the ‘80s and even now I can still remember, as a child, my mother using a computer <br>and showing me cool things it could do. At the early age of four, I was using the internet <br>and was always trying new things, finding new websites, and messing around with the <br>file explorer. I have always loved computers and technology but never pursued it in <br>school as it had been all around me my entire life.  I never really considered a future in <br>it. Through in my developing years, I was entirely infatuated with things outside of my <br>knowledge, especially science. Though, as I came to understand science more in my <br>later teenage years the initial magic disappeared, and I was stuck learning a very <br>difficult subject in Year twelve with little motivation to finish it. </p>
+<br>
+<p>And this is where my interest in IT truly started. As my disinterest in science grew, I began <br>sporadically researching and looking for new and exciting topics and areas of study. <br>Something that got me away from the boredom and theory of science and gave me a <br>challenge and real-world problems to solve. I came across a video about programming <br>and the guy in the video gave a quick backstory on himself and how he got into <br>programming. He got stuck doing a subject he didn’t like in high school and didn’t <br>complete his Year twelve. But instead poured all his effort into learning a new skill. <br>Programming. And with a long and successful career in the field, he hasn’t looked back.<br>This small part of that video struck a chord with me. His story felt so familiar to me it <br>was as if a future me was telling me how cool programming is. After this, I began <br>watching video after video on programming — how to code, the basics of <br>programming, the challenges you will face, the mindset you’ll need, and the type of <br>problems you’ll solve. It was all very interesting, and I started to feel that feeling again. <br>That magic and wonder for something new and fresh and I knew then my future would <br>be in IT. Following this newfound interest in programming, I immediately started <br>looking for an introductory course.<br><br><br> After my bad experiences in online education, I wanted to find <br> a physical learning environment to learn IT. However, the world had <br>different plans. COVID happened and kept on happening, so my dreams of onsite <br>education were over. And it didn’t help that I lived rurally away from all the IT courses <br>in Melbourne. Online was the only option. So, I did further research and found RMIT <br>online. At first, I was a bit surprised that I could even apply. I always imagined RMIT as <br>this all-elite top of the top University. Hence, it came as a shock that someone who <br>didn’t even complete Year twelve could enter. I am new to IT and programming; I have <br>a lot of experience using computers. But using a computer and understanding how it <br>works are two very different things. Therefore, I hope that I will come to truly grasp the<br> complex and fascinating world of IT at RMIT.  </p>
+</article>
+
+
+<footer>
+</footer>
+
+</body>
+
+</html>
